@@ -1,2 +1,2 @@
 # icecreampalour
-For icecream orders
+For icecream orders.
